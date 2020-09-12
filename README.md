@@ -7,7 +7,8 @@
 <p align="center">
   <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-getting-started">Getting Started</a>
+  <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -41,3 +42,7 @@ This app was built during the "Next Level Week | RocketSeat "
 3. Run `npm install` to install the dependencies
 4. Run `npm run dev` to start the server
 5. Open `http://localhost:5500` in your browser
+
+## :memo: License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
