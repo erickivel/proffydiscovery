@@ -1,5 +1,6 @@
 <h1 align="center">
     <img align="center" src="./assets/logo.png" width="50%"/> </br>
+    HTML | CSS | JavaScript
 </h1>
 
 </br>
