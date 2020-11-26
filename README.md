@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#question-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -31,7 +31,7 @@
 This app was built during the "Next Level Week | RocketSeat "
 
 
-## :gear: Features
+## :gear: Technologies
 🌐 <strong>HTML, JavaScript, CSS</strong> </br>
 ⚙️ <strong>Node Js</strong> —> A platform for building network applications </br>
 ✏️ <strong>Nunjucks</strong> —> Templating language for JavaScript </br>
